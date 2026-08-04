@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"chipped:large_diamond_orange_stained_glass_pane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:white_concrete_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

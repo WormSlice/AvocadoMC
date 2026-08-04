@@ -1,0 +1,5 @@
+#Mon Jul 27 16:22:16 GMT-05:00 2026
+Volumetric_Lighting=true
+cloudsIT=14
+nMap=2
+raytracedShadows=true

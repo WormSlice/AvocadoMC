@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:popped_chorus_fruit"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterend:eternal_pedestal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterend:flavolite_pedestal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cataclysm:flame_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

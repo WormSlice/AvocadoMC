@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"creaturecorner:gallian_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"creaturecorner:pigeon_egg_white"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"creaturecorner:pigeon_nest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"creaturecorner:endove_nest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"creaturecorner:pigeon_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"creaturecorner:pigeon_loft"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
