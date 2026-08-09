@@ -117,14 +117,6 @@
         "mining_v2": "pack:punchy:punchy",
         "attack": "pack:punchy:punchy"
       }
-    },
-    {
-      "kind": "itemSpecific",
-      "definition": "minecraft:emptyHand",
-      "animations": {
-        "mining_v2": "pack:punchy:punchy",
-        "attack": "pack:punchy:punchy"
-      }
     }
   ]
 }

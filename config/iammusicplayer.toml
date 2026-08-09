@@ -1,0 +1,50 @@
+volume = 1.0
+maxPlayCont = 8
+spatial = true
+sampleRate = 44100
+enableCache = false
+globalCache = false
+autoProxy = true
+useYoutubeDownloader = true
+imgurClientID = "9a0189f3c8b74b9"
+relayServerURL = "https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/relay_server.json"
+IMPRFolder = "iammusicplayerrenewed"
+lavaNativesFolder = "lavaplayer_natives"
+hideDisplaySprite = false
+hideDecorativeAntenna = false
+maxWaitTime = 10000
+retryTime = 3000
+dropItemRing = true
+serverLyric = false
+soundPhysicsRemasteredIntegration = true
+touhouLittleMaidIntegration = true
+patchouliIntegration = true
+cctIntegration = true
+jadeIntegration = true
+showMusicLines = false
+showSpeakerRange = false
+configVersion = "1"
+enableMusicInfoHUD = true
+hudX = 10
+hudY = 10
+createIntegration = true
+sableIntegration = true
+netMusicListIntegration = true
+
+[proxy]
+type = "DIRECT"
+host = ""
+port = 0
+
+[netMusicConfig]
+enableNetease = true
+withTransName = true
+neteaseCookie = ""
+
+[bilibiliConfig]
+enableBilibili = true
+bilibiliCookie = ""
+
+[QQMusicConfig]
+enableQQMusic = true
+QQMusicCookie = ""

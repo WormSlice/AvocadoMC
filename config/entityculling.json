@@ -8,7 +8,16 @@
     "create:hose_pulley",
     "betterend:eternal_pedestal",
     "botania:magic_missile",
-    "botania:falling_star"
+    "botania:falling_star",
+    "bclib:chest",
+    "betternether:chest_of_drawers",
+    "lootr:lootr_chest",
+    "lootr:lootr_trapped_chest",
+    "minecraft:chest",
+    "minecraft:ender_chest",
+    "minecraft:trapped_chest",
+    "sophisticatedstorage:chest",
+    "twilightforest:skull_chest"
   ],
   "entityWhitelist": [
     "botania:mana_burst",
@@ -69,8 +78,8 @@
     "cinematiccataclysm:ignis_cutscene"
   ],
   "disableF3": false,
-  "skipEntityCulling": false,
-  "skipBlockEntityCulling": false,
+  "skipEntityCulling": true,
+  "skipBlockEntityCulling": true,
   "blockEntityFrustumCulling": true,
   "forceDisplayCulling": false,
   "solidLeaves": false

@@ -1,5 +1,19 @@
 [
   {"version":1},
+  {"ingredient":{"id":"iammusicplayer:boombox"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:jukebox"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:trident"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:copper_chest","components":"{\"sophisticatedstorage:wood_type\":\"acacia\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:chest","components":"{\"sophisticatedcore:accent_color\":-8337633,\"sophisticatedcore:main_color\":-75715}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:chest","components":"{\"sophisticatedstorage:wood_type\":\"spruce\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:iron_chest","components":"{\"sophisticatedstorage:wood_type\":\"spruce\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:gold_chest","components":"{\"sophisticatedstorage:wood_type\":\"spruce\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:diamond_chest","components":"{\"sophisticatedstorage:wood_type\":\"spruce\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"explorerscompass:explorerscompass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"naturescompass:naturescompass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cataclysm:ancient_spear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cataclysm:coral_spear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cataclysm:astrape"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"chipped:large_diamond_orange_stained_glass_pane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:white_concrete_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

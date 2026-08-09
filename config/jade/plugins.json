@@ -52,6 +52,10 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "iammusicplayer": {
+    "cassette_deck": true,
+    "boombox": true
+  },
   "apothic_spawners": {
     "spawner": true
   },
@@ -65,17 +69,6 @@
   "tombstone": {
     "decorative_graves": true,
     "player_graves": true
-  },
-  "betternether": {
-    "plant_growth": true
-  },
-  "betterend": {
-    "plant_growth": true
-  },
-  "twilightforest": {
-    "drying_rack": true,
-    "chiseled_bookshelf_spawner": true,
-    "quest_ram_wool": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -96,5 +89,24 @@
   },
   "apothic_enchanting": {
     "ench": true
+  },
+  "betternether": {
+    "plant_growth": true
+  },
+  "toms_storage": {
+    "inventory_hopper": true,
+    "inventory_config": true,
+    "inventory_connector": true
+  },
+  "betterend": {
+    "plant_growth": true
+  },
+  "twilightforest": {
+    "drying_rack": true,
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
+  },
+  "barbequesdelight": {
+    "grill": true
   }
 }

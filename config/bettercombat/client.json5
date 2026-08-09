@@ -7,7 +7,7 @@
 	"isHighlightCrosshairEnabled": true,
 	"hudHighlightColor": 16711680,
 	"isShowingWeaponTrails": true,
-	"isShowingArmsInFirstPerson": false,
+	"isShowingArmsInFirstPerson": true,
 	"isShowingOtherHandFirstPerson": true,
 	"isSweepingParticleEnabled": false,
 	"isTooltipAttackRangeEnabled": true,

@@ -1,0 +1,9 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:netherite_shovel","components":"{\"minecraft:enchantments\":{levels:{\"minecraft:efficiency\":4,\"minecraft:fortune\":2,\"minecraft:mending\":1,\"minecraft:unbreaking\":3,\"tombstone:soulbound\":1}},\"minecraft:repair_cost\":1}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"born_in_chaos_v1:corpse_maggot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:gem","components":"{\"apotheosis:gem\":\"apotheosis:core/solar\",\"apotheosis:purity\":\"chipped\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:totem_of_undying","components":"{\"minecraft:custom_data\":{biggerstacksize:64},\"minecraft:max_stack_size\":64}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:chain"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cataclysm:soul_render","components":"{\"apotheosis:affix_name\":{color:\"#5555FF\",italic:0b,translate:\"misc.apotheosis.affix_name.three\",with:[{translate:\"affix.apotheosis:melee/attribute/glacial\"},{\"\":\"\"},{translate:\"affix.apotheosis:melee/attribute/berserking.suffix\"}]},\"apotheosis:affixes\":{\"apotheosis:generic/telepathic\":0.15576696f,\"apotheosis:melee/attribute/berserking\":0.1159156f,\"apotheosis:melee/attribute/glacial\":0.8722296f,\"apotheosis:melee/mob_effect/caustic\":0.6085787f},\"apotheosis:durability_bonus\":0.16329312f,\"apotheosis:rarity\":\"apotheosis:rare\",\"apotheosis:sockets\":1}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

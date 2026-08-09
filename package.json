@@ -1,0 +1,85 @@
+{
+  "name": "avocadomc-launcher",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "electron": "electron .",
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "package": "electron-builder -w",
+    "package:linux": "electron-builder --linux",
+    "package:all": "electron-builder -wl"
+  },
+  "build": {
+    "appId": "lat.avocadomc.launcher",
+    "productName": "AvocadoMC Launcher",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "icono.png"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "icono.png"
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb",
+        "tar.gz"
+      ],
+      "icon": "icono.png",
+      "category": "Game"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "AvocadoMC Launcher",
+      "license": "LICENSE.txt",
+      "runAfterFinish": true
+    },
+    "compression": "store"
+  },
+  "dependencies": {
+    "@dataconnect/generated": "file:src/dataconnect-generated",
+    "@tailwindcss/vite": "^4.3.3",
+    "adm-zip": "^0.6.0",
+    "discord-rpc": "^4.0.1",
+    "extract-zip": "^2.0.1",
+    "graceful-fs": "^4.2.11",
+    "lucide-react": "^0.546.0",
+    "minecraft-launcher-core": "^3.18.2",
+    "motion": "^12.43.0",
+    "msmc": "^5.0.5",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-icons": "^5.7.0",
+    "react-skinview3d": "^7.0.0",
+    "skinview3d": "^3.4.2",
+    "tailwindcss": "^4.3.3",
+    "uuid": "^14.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "autoprefixer": "^10.4.21",
+    "electron": "^43.2.0",
+    "electron-builder": "^26.15.3",
+    "esbuild": "^0.25.0",
+    "oxlint": "^1.71.0",
+    "tsx": "^4.23.5",
+    "typescript": "~5.8.2",
+    "vite": "^8.1.1"
+  }
+}
